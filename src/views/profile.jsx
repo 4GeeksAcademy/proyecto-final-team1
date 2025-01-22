@@ -68,12 +68,6 @@ export const Profile = () => {
 
                                 </div>
                             )}
-
-
-
-
-                            {/* <p className="card-text mt-3"><small className="text-body-secondary">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nam est laborum reiciendis. Ab totam officia officiis reprehenderit vitae, dolorem accusamus? Excepturi velit aperiam, iusto ducimus enim laudantium praesentium error suscipit?</small></p> */}
-
                         </div>
                     </div>
                 </div>
